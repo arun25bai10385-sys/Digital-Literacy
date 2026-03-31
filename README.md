@@ -62,7 +62,7 @@ Digital-Literacy/
 
 ### Task 4 – Professional Email & Etiquette Guide
 - Drafted two professional emails:  
-  1. Requesting an extension on an assignment deadline (to Professor Kasana).  
+  1. Requesting an extension on an assignment deadline (to Professor KaranKumar).  
   2. Expressing interest in a summer internship (to Hiring Manager).  
 - Created a **Social Media Do’s and Don’ts checklist** with 5 responsible practices and 5 mistakes to avoid.  
 - Files are in `task-4-email-etiquette/`.
